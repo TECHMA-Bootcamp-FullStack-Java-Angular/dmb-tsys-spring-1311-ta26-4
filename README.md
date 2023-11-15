@@ -25,3 +25,35 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 - Remember that you can see the rats accessing Swagger
 
   ``https://217.0.0.1:8183/doc.html``
+
+  | EQUIPO
+| ------------- 
+GET /api/v1/equipos
+GET /api/v1/equipo/{id}
+POST /api/v1/equipo
+PUT /api/v1/equipo/{id}
+DELETE /api/v1/equipo/{id}
+
+| FACULTAD
+| ------------- 
+GET /api/v1/facultades
+GET /api/v1/facultad/{id}
+POST /api/v1/facultad
+PUT /api/v1/facultad/{id}
+DELETE /api/v1/facultad/{id}
+
+| IVESTIGADOR
+| ------------- 
+GET /api/v1/investigadores
+GET /api/v1/investigador/{id}
+POST /api/v1/investigador
+PUT /api/v1/investigador/{id}
+DELETE /api/v1/investigador/{id}
+
+| RESERVA
+| ------------- 
+GET /api/v1/reservas
+GET /api/v1/reserva/{id}
+POST /api/v1/reserva
+PUT /api/v1/reserva/{id}
+DELETE /api/v1/reserva/{id}
