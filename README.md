@@ -26,6 +26,10 @@ This repository contains the Bootcamp tasks 👨‍💻
 
   ``https://217.0.0.1:8183/doc.html``
 
+## Routes
+
+<hr>
+
 | EQUIPO
 | ------------- 
 GET /api/v1/equipos
@@ -33,6 +37,8 @@ GET /api/v1/equipo/{id}
 POST /api/v1/equipo
 PUT /api/v1/equipo/{id}
 DELETE /api/v1/equipo/{id}
+
+<hr>
 
 | FACULTAD
 | ------------- 
@@ -42,13 +48,17 @@ POST /api/v1/facultad
 PUT /api/v1/facultad/{id}
 DELETE /api/v1/facultad/{id}
 
-| IVESTIGADOR
+<hr>
+
+| INVESTIGADOR
 | ------------- 
 GET /api/v1/investigadores
 GET /api/v1/investigador/{id}
 POST /api/v1/investigador
 PUT /api/v1/investigador/{id}
 DELETE /api/v1/investigador/{id}
+
+<hr>
 
 | RESERVA
 | ------------- 
