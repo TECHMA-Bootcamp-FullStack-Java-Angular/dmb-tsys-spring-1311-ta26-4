@@ -6,7 +6,7 @@
 
 # T26-4 - Spring Mysql
 
-Este repositorio contiene las tareas del Bootcamp 👨‍💻
+This repository contains the Bootcamp tasks 👨‍💻
 
 #### ### Rules of use 🤜🏼🤛🏼
 
@@ -26,7 +26,7 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
   ``https://217.0.0.1:8183/doc.html``
 
-  | EQUIPO
+| EQUIPO
 | ------------- 
 GET /api/v1/equipos
 GET /api/v1/equipo/{id}
